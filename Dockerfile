@@ -1,3 +1,3 @@
-FROM docus/xa:root3
+FROM docus/xanew:root5
 
 COPY . .

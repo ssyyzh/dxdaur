@@ -1,3 +1,3 @@
-FROM docus/xa:user3
+FROM docus/xa:root3
 
 COPY . .

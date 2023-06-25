@@ -1,3 +1,3 @@
-FROM docus/xa:root-zy3
+FROM docus/xa:root3
 
 COPY . .
